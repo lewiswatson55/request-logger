@@ -4,7 +4,7 @@ This is a simple Flask application that logs incoming HTTP requests to files. It
 
 ## Documentation
 
-Please refer to the [Documentation](https://github.com/lewiswatson55/flask-request-logger/docs.md) for detailed information about the code and its usage.
+Please refer to the [Documentation](https://github.com/lewiswatson55/request-logger/blob/master/docs.md) for detailed information about the code and its usage.
 
 ## Installation
 
